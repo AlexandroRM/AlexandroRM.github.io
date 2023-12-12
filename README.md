@@ -50,3 +50,5 @@ RaidConnect desarrolló la aplicación RaidConnect como una aplicación gratuita
         Privacidad de los Niños
 
         Estos Servicios no están dirigidos a ninguna persona menor de 13 años. No recopilamos de manera consciente información personal identificable de niños
+
+        © [2023] RaidConnect. Todos los derechos reservados. Pokémon y Pokémon GO son marcas registradas de Nintendo, Niantic, Inc. y The Pokémon Company. RaidConnect no está afiliado, patrocinado ni respaldado por estas empresas. El uso de nombres, marcas y logotipos de Pokémon es solo con fines descriptivos y no implica ninguna afiliación con o endoso por parte de los propietarios de los derechos
