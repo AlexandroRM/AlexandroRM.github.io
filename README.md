@@ -2,7 +2,7 @@ RaidConnect desarrolló la aplicación RaidConnect como una aplicación gratuita
 
 ## Aplicaciones
 
-- [RaidConnect](#raidconnect-privacy-policy)
+- [RaidConnect Privacy Policy](#raidconnect-privacy-policy)
 - [Collection and Use of Information](#collection-and-use-of-information)
 - [Data Logging](#data-logging)
 
