@@ -68,7 +68,7 @@ Esta página se utiliza para informar a los visitantes sobre nuestras políticas
 
         Si decides utilizar nuestro Servicio, aceptas la recopilación y el uso de información en relación con esta política. La Información Personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No utilizaremos ni compartiremos tu información con nadie, excepto según se describe en esta Política de Privacidad.
 
-        Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones, que están accesibles en RaidConnect, a menos que se defina lo contrario en esta Política de Privacidad.
+        Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones, que están accesibles en CashMaster, a menos que se defina lo contrario en esta Política de Privacidad.
 
         Recopilación y Uso de Información
 
