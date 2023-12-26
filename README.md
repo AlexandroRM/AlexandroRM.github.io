@@ -2,7 +2,7 @@
 ## Aplicaciones
 
 - [RaidConnect Privacy Policy](#raidconnect-privacy-policy)
-- [CashMaster Privacy Policy](#cashMaster-privacy-policy)
+- [CashMaster Privacy Policy](#cashmaster-privacy-policy)
 
 ## Raidconnect Privacy Policy
 
