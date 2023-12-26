@@ -114,4 +114,5 @@ Esta página se utiliza para informar a los visitantes sobre nuestras políticas
         Privacidad de los Niños
 
         Estos Servicios no están dirigidos a ninguna persona menor de 13 años. No recopilamos de manera consciente información personal identificable de niños
+          © [2023] CashMaster. Todos los derechos reservados.
 
