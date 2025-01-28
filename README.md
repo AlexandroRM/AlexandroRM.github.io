@@ -3,7 +3,7 @@
 
 - [RaidConnect Privacy Policy](#raidconnect-privacy-policy)
 - [CashMaster Privacy Policy](#cashmaster-privacy-policy)
-- [LearnWords Privacy Policy](#cashmaster-privacy-policy)
+- [LearnWords Privacy Policy](#learnwords-privacy-policy)
 
 ## Raidconnect Privacy Policy
 
